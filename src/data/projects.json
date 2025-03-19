@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Portfolio Website",
+      "description": "A personal portfolio website built with React to showcase my skills and projects.",
+      "technologies": ["React", "CSS", "JavaScript"],
+      "link": "https://github.com/juhyun88/pawfect-wave-dothome.git"
+    },
+    {
+      "name": "Weather App",
+      "description": "A weather app that fetches data from an API and shows the forecast.",
+      "technologies": ["React", "API", "CSS"],
+      "link": "https://github.com/juhyun88/pawfect-wave-dothome.git"
+    }
+  ]
